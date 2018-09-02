@@ -1,0 +1,148 @@
+*
+{
+text-decoration: none;
+margin-top: 0.5%;
+}
+
+h1,h2 
+{
+    font-family: 'Kameron', serif;
+    
+}
+
+h1
+{
+ font-size: 2.5em;
+}
+
+h2{ 
+font-size: 1.6em;
+margin: 1.5em 0;
+}
+
+a
+{
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+}
+
+.standar {
+    border-radius: 8px;
+    padding: 0.5em 0.9em;
+    display: inline;
+    margin: 0 15px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+
+#nor, #peque, #gran{
+    background-color: #f4f3f2; 
+    color:#756f78;
+}
+
+#nor 
+{
+    font-size: 1em;
+    border: none;
+}
+
+#peque {
+    font-size: 0.7em;
+    border: none;
+}
+
+#gran {
+    border: none;
+    font-size: 1.6em;
+}
+
+#esme, #cie, #ama, #asf, #top, #rub {
+    color:white;    
+}
+
+#esme {
+    background-color: #57d68d;
+}
+
+#cie{
+    background-color: #5cace2;
+}
+
+#ama {
+    background-color: #ae7ac4;
+}
+
+#asf{
+    background-color: #5c6d7e;
+}
+
+#top {
+    background-color: #ea974e;
+}
+
+#rub{
+    background-color: #eb6f62;
+}
+
+
+#bsimp{
+    border-block-end-color: #959595;
+    color: #959595;
+}
+
+#besme {
+    border-block-end-color: #57d68d;
+    color: #57d68d;
+}
+
+#bcie{
+    border-block-end: #5cace2;
+    color: #5cace2;
+}
+
+#bama {
+   border-block-end-color: #ae7ac4;
+   color: #ae7ac4;
+}
+
+#basf {
+    border-block-end-color: #5c6d7e;
+    color: #5c6d7e;
+}
+
+#btop {
+    border-block-end-color: #ea974e;
+    color: #ea974e;
+}
+
+#brub {
+    border-block-end-color: #eb6f62;
+    color: #eb6f62;
+}
+
+
+#ccie
+{
+    font-size: 1em;
+    border-block-end-color: #5cace2;
+    color: #5cace2;
+}
+
+#cesm {
+    background-color: #57d68d;
+    color: white;
+    font-size: 0.7em;
+}
+
+#casf {
+    font-size: 1.6em;
+    background-color: #5c6d7e;
+    color: white;
+}
+
+#crub {
+    font-size: 1.6em;
+    border-block-end-color: #eb6f62; 
+    color: #eb6f62;
+}

@@ -1,0 +1,41 @@
+body
+{
+    background-color: rgb(37, 34, 34);
+    font-family: 'Alegreya', serif;
+
+}
+h1, h2{
+
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    font-size: 6.5em;
+
+}
+
+h2 {
+    font-size: 2.7em;
+
+}
+img{
+    width: 30%;
+    height: 20%;
+    margin: 3em 1em;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue;
+    font-size: 3em;
+    padding: 4.6%;
+}
+
+
+div{
+    display: inline;
+} 
+
